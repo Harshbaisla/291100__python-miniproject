@@ -11,8 +11,8 @@
   <img src=https://github.com/Harshbaisla/291100__python-miniproject/blob/main/Images/hangman1.png
 </p>
 <p align="center">
-  <img src=https://github.com/Harshbaisla/291100__python-miniproject/tree/main/Images/hangman2.png
+  <img src=https://github.com/Harshbaisla/291100__python-miniproject/blob/main/Images/hangman2.png
 </p>
 <p align="center">
-  <img src="https://github.com/SarthakVerma26/291197_python_mini-project/blob/main/Images/img3.png">
+  <img src=https://github.com/Harshbaisla/291100__python-miniproject/blob/main/Images/hangman3.png
 </p>
