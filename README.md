@@ -16,3 +16,12 @@
 <p align="center">
   <img src=https://github.com/Harshbaisla/291100__python-miniproject/blob/main/Images/hangman3.png
 </p>
+<p align="center">
+  <img src=https://github.com/Harshbaisla/291100__python-miniproject/blob/main/Images/hangman4.png
+</p>
+<p align="center">
+  <img src=https://github.com/Harshbaisla/291100__python-miniproject/blob/main/Images/hangman5.png
+</p>
+<p align="center">
+  <img src=https://github.com/Harshbaisla/291100__python-miniproject/blob/main/Images/hangman6.png
+      
