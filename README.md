@@ -24,4 +24,5 @@
 </p>
 <p align="center">
   <img src=https://github.com/Harshbaisla/291100__python-miniproject/blob/main/Images/hangman6.png
+       
       
