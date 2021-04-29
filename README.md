@@ -1,5 +1,5 @@
 # 291100__python-miniproject
-## hang_man Game
+## Hang_man Game
  The Puzzle game built using Python.
  
  ## How To Play:
